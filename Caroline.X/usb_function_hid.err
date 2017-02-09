@@ -1,0 +1,3 @@
+Error[1027] C:\Users\Hussein\OneDrive\Documents\FYDP\CarolineCode\HID_Example\pic_software\USB Stack\usb_function_hid.c 94 : unable to locate 'Compiler.h'
+Error[1027] C:\Users\Hussein\OneDrive\Documents\FYDP\CarolineCode\HID_Example\pic_software\USB Stack\usb_function_hid.c 95 : unable to locate './USB/usb.h'
+Error[1027] C:\Users\Hussein\OneDrive\Documents\FYDP\CarolineCode\HID_Example\pic_software\USB Stack\usb_function_hid.c 96 : unable to locate './USB/usb_function_hid.h'
